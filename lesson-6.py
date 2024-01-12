@@ -23,7 +23,7 @@ def solution_14():
 # tache 16
 
 # one ordered list | liste chaînée
-# root -> next -> next -> next
+# root -> next -> next -> next -> None
 #
 class Node:
     def __init__(self, val):
